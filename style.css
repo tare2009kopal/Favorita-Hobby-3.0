@@ -102,3 +102,10 @@ p {
     font-size: 23px;
     color: darkslateblue;
 }
+#Videos{
+    background-color: lightpink;
+}
+#Swim-Teams{
+    background-color: lavender;
+    height:730;
+}
